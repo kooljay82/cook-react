@@ -1,4 +1,4 @@
-# 🍳 cook-react
+# 🍳 cook-react-app
 
 A friendly CLI tool to "cook" a fresh React project based on kooljay's boilerplate.
 
@@ -23,7 +23,7 @@ nvm use 23
 ## 🚀 Usage
 
 ```bash
-npx cook-react my-app
+npx cook-react-app my-app
 ```
 
 ---
@@ -51,9 +51,9 @@ npm start
 ## 🧪 Example output
 
 ```bash
-npx cook-react my-app
+npx cook-react-app my-app
 
-👨‍🍳 Welcome to cook-react!
+👨‍🍳 Welcome to cook-react-app!
 🍳 What’s your project name? → my-app
 🥄 Cooking "my-app" from template...
 
