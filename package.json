@@ -1,5 +1,5 @@
 {
-  "name": "@kooljay82/cook-react",
+  "name": "cook-react-app",
   "version": "1.0.0",
   "description": "react-boiler-plate cli 설치 프로젝트",
   "engines": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kooljay82/cook-react.git"
+    "url": "git+https://github.com/kooljay82/cook-react-app.git"
   },
   "keywords": [
     "react",
@@ -30,9 +30,9 @@
   "author": "kooljay82",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kooljay82/cook-react/issues"
+    "url": "https://github.com/kooljay82/cook-react-app/issues"
   },
-  "homepage": "https://github.com/kooljay82/cook-react",
+  "homepage": "https://github.com/kooljay82/cook-react-app",
   "dependencies": {
     "chalk": "^5.4.1",
     "execa": "^4.1.0",
