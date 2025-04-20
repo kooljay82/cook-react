@@ -1,0 +1,40 @@
+{
+  "name": "cook-react",
+  "version": "1.0.0",
+  "description": "react-boiler-plate cli 설치 프로젝트",
+  "engines": {
+    "node": ">=23.10.0"
+  },
+  "main": "index.js",
+  "bin": {
+    "cook-react": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kooljay82/cook-react.git"
+  },
+  "keywords": [
+    "react",
+    "boiler",
+    "boilerplate",
+    "cra",
+    "cook",
+    "cook-react"
+  ],
+  "author": "kooljay82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kooljay82/cook-react/issues"
+  },
+  "homepage": "https://github.com/kooljay82/cook-react#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "execa": "^4.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^8.2.5",
+    "validate-npm-package-name": "^6.0.0"
+  }
+}
