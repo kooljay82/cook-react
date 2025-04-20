@@ -1,6 +1,6 @@
 {
   "name": "cook-react-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-boiler-plate cli 설치 프로젝트",
   "engines": {
     "node": ">=23.10.0"
@@ -10,7 +10,8 @@
     "cook-react": "./bin/index.js"
   },
   "files": [
-    "bin", "README.md"
+    "bin",
+    "README.md"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
