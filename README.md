@@ -76,7 +76,7 @@ npx cook-react my-app
 
 ## 🪪 License
 
-ISC
+ISC © kooljay82
 
 ---
 
